@@ -74,7 +74,7 @@ public class Game {
 	}
 
 
-	public Integer getYear() {
+	public Integer getGameYear() {
 		return year;
 	}
 
@@ -161,6 +161,9 @@ public class Game {
 		Game other = (Game) obj;
 		return Objects.equals(id, other.id);
 	}
+
+
+
 
 
 }

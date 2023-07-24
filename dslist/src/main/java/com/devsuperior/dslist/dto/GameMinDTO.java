@@ -20,7 +20,8 @@ public class GameMinDTO {
 	 
 		id = entity.getId();
 		 title = entity.getTitle();
-		year = entity.getYear();
+		 
+		year = entity.getGameYear();
 		imgUrl = entity.getImgUrl();
 		shortDescription = entity.getShortDescription();
 	}
@@ -30,7 +31,7 @@ public class GameMinDTO {
 		 
 		id =  projection.getId();
 		 title =  projection.getTitle();
-		year =  projection.getYear();
+		year =  projection.getGameYear();
 		imgUrl =  projection.getImgUrl();
 		shortDescription =  projection.getShortDescription();
 	}
