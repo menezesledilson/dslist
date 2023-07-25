@@ -17,8 +17,8 @@ Ferramentas Recomendadas
 
 O uso das seguintes ferramentas é altamente recomendado para desenvolver e testar a API:
 
-    Spring Tools Suite: Uma ferramenta útil que facilita o desenvolvimento do projeto e oferece funcionalidades para escrever códigos com maior qualidade. Recomendado para aumentar a eficiência do desenvolvimento.
-    Postman: Uma ferramenta para testar as chamadas à API. É possível fazer requisições HTTP usando os métodos GET e POST para listar e enviar dados para a API, respectivamente. É importante utilizar corretamente os métodos HTTP para garantir o bom funcionamento da API e obter os resultados desejados.
+    Spring Tools Suite: Uma ferramenta útil que facilita o desenvolvimento do projeto.
+    Postman: Uma ferramenta para testar as chamadas à API. 
 
 Endpoints
 
