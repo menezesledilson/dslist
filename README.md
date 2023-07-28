@@ -3,7 +3,7 @@ API REST DSList Intensivão Java Spring - Nelio Alves
 Descrição
 
 Esta é uma API REST desenvolvida em Java Spring para gerenciar listas usando o DSList Intensivão.
-A API permite que os usuários criem, leiam, atualizem e excluam itens em suas listas.
+A API permite que os usuários criem, leiam, suas listas.
 Dependências
 
 Certifique-se de ter as seguintes dependências do Spring Boot instaladas em seu projeto:
